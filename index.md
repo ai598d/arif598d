@@ -2,7 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/ai598d/arif598d/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600"> 
+[Image](me.jpeg)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
  <img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600"> 
